@@ -1,0 +1,5 @@
+{
+  "name": "TMA Cafe",
+  "description": "A modern Telegram Mini App for a coffee shop featuring a product catalog and cart functionality.",
+  "requestFramePermissions": []
+}

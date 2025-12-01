@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "name": "Сибирский раф",
+    "description": "Классический раф с добавлением сиропа из кедровых орехов.",
+    "price": 500,
+    "currency": "₽",
+    "imageUrl": "https://picsum.photos/400/400?random=1",
+    "categoryId": "coffee",
+    "isPopular": true
+  },
+  {
+    "id": "2",
+    "name": "Капучино Гранде на миндальном молоке с корицей",
+    "description": "Большой объем для любителей мягкого вкуса.",
+    "price": 450,
+    "currency": "₽",
+    "imageUrl": "https://picsum.photos/400/400?random=2",
+    "categoryId": "coffee",
+    "isPopular": true
+  },
+  {
+    "id": "3",
+    "name": "Эспрессо",
+    "price": 200,
+    "currency": "₽",
+    "imageUrl": "https://picsum.photos/400/400?random=3",
+    "categoryId": "coffee",
+    "isPopular": false
+  },
+  {
+    "id": "4",
+    "name": "Круассан с шоколадом",
+    "description": "Свежая французская выпечка.",
+    "price": 350,
+    "currency": "₽",
+    "imageUrl": "https://picsum.photos/400/400?random=4",
+    "categoryId": "bakery",
+    "isPopular": true
+  }
+]
